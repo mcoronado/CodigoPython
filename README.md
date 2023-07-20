@@ -1,2 +1,3 @@
 # CodigoPython
-pruebas de como codigicar automaticamente
+
+pruebas de como codificar automaticamente
